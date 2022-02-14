@@ -1,0 +1,7 @@
+site_name: CloudyNotes
+site_url: https://www.cloudynotes.io
+nav:
+    - Home: index.html
+    - About: about.md
+theme: 
+    name: bootstrap4
